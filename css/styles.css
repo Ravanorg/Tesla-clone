@@ -157,31 +157,31 @@ ol li {
 }
 
 #page1 {
-    background-image: url(/img/1.jpeg);
+    background-image: url(../img/1.jpeg);
 }
 
 #page2 {
-    background-image: url(/img/2.jpeg);
+    background-image: url(../img/2.jpeg);
 }
 
 #page3 {
-    background-image: url(/img/3.jpeg);
+    background-image: url(../img/3.jpeg);
 }
 
 #page4 {
-    background-image: url(/img/4.jpeg);
+    background-image: url(../img/4.jpeg);
 }
 
 #page5 {
-    background-image: url(/img/5.jpeg);
+    background-image: url(../img/5.jpeg);
 }
 
 #page6 {
-    background-image: url(/img/6.webp);
+    background-image: url(../img/6.webp);
 }
 
 #page7 {
-    background-image: url(/img/7.jpeg);
+    background-image: url(../img/7.jpeg);
 }
 
 .page-header {
